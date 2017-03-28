@@ -5,4 +5,4 @@ snow ball sampling of active duty and veteran couples. Must have one deployment?
 Austin's relatives?
 Tabling at the VA
 
-Testing out how to make branches in working copy
+Couples of all branches, 2 year since last deployment, combat not required
