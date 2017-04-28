@@ -1,4 +1,6 @@
 # References
+Allen, Rhoades, Stanley, & Markman, 2011
+
 Adler, A. B., Bartone, P. T., & Britt, T. W. (2001) Deriving benefits from stressful events: The role of engagement in meaningful work and hardiness. *Journal of Occupational Health Psychology, 6*(1), 53-63. doi:10.1037//1076-8998.6.1.53
 
 Benzies, K. & Mychasiuk, R. (2009). Fostering family resiliency: A review of the key protective factors. *Child and Family Social Work, 14*, 103-114.[doi:10.1111/j.1365-2206.2008.00586.x](doi:10.1111/j.1365-2206.2008.00586.x)
@@ -16,3 +18,5 @@ Marek, L. I. & D'Aniello, C. (2014). Reintegration stress and family mental heal
 Melvin, K. C., Gross, D., Hayat, M. J., Jennings, B. M., Campbell, J. C. (2012). Couple functioning and post-traumatic stress symptoms in US Army couples: The role of resilience. *Research in Nursing & Health, 35*, 164-177. doi:10.1002/nur.21459
 
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
+
+Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
