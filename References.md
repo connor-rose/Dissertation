@@ -1,5 +1,5 @@
 # References
-Allen, Rhoades, Stanley, & Markman, 2011
+Allen, E. S., Rhoades, G. K., Stanley, S. M, & Markman, H. J. (2011). On the home front: Stress for recently deployed Army couples. *Family Process, 50* (2), 235-247.  
 
 Adler, A. B., Bartone, P. T., & Britt, T. W. (2001) Deriving benefits from stressful events: The role of engagement in meaningful work and hardiness. *Journal of Occupational Health Psychology, 6*(1), 53-63. doi:10.1037//1076-8998.6.1.53
 
