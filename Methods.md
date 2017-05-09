@@ -10,3 +10,7 @@ When determining the appropriate period of time to consider "post-deployment" I 
 ## Possible Interview Questions
 A question that remains unanswered is how does the process of reintegration mirror the process of separation? Are there similar fears and difficulties experienced when a service member cones back from deployment?
 
+## Participant Selection
+National Guard contacts of Alexa Landsman
+
+local community events
