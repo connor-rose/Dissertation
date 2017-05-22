@@ -1,5 +1,7 @@
 # Methods
 
+testing my git repo on iMac
+
 * should i go full qualitative? Finding a differentiation between info to ask in quant v info to ask for in qual is getting grey. Only way I could think of doing mixed methods is if I include a marital satisfaction survey for quant but then that feels like I'm just making the project uneccessarily complicated. So my thinking is going full qual and doing interviews or qual survey. I'm realizign that getting both members of a dyad to sit down for an inteview may be really tricky. I could do the **Marek and D'aniello** article \(**SM N=380\) \(Civ= 295\) **method which is collect data from non-linked service mems and civ partners. Their article specifically said that reworking their methodology with linked couples would be better though. 
 * Looking at **Larsen et al \(Army wives\)** **\(N=18\)** they did a qual study using IPA. This could be a good approach to emulate but they only looked at one memver of the dyad \(civ partner\). 
 * Mixed Methods Idea \(pp. 66 of RNB\): do qual interviews about coping strats, protective factors utilzied during post-deployment and use quant marital sat survey. Look for rlx between protective facrtors, coping, and marital sat.
