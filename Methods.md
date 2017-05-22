@@ -1,8 +1,8 @@
 # Methods
 
-testing my git repo on iMac
+Data collection will be done via a qualitative survey sent out to list servs and friends of friends \(snow ball sampling\). Requirements of participants is to be either a partnered service member who has deployed within the last two years\(?\) or a civilian partner of SM who has deployed within the last two years. Participants may, but are not necessarily from, a linked dyad. Participants will be asked if they and their partner would like to be a part of an additional interview component. The purpose of the interview is to gather additional information that is only possible from in-person interviews. 
 
-* should i go full qualitative? Finding a differentiation between info to ask in quant v info to ask for in qual is getting grey. Only way I could think of doing mixed methods is if I include a marital satisfaction survey for quant but then that feels like I'm just making the project uneccessarily complicated. So my thinking is going full qual and doing interviews or qual survey. I'm realizign that getting both members of a dyad to sit down for an inteview may be really tricky. I could do the **Marek and D'aniello** article \(**SM N=380\) \(Civ= 295\) **method which is collect data from non-linked service mems and civ partners. Their article specifically said that reworking their methodology with linked couples would be better though. 
+* I could do the **Marek and D'aniello** article \(**SM N=380\) \(Civ= 295\) **method which is collect data from non-linked service mems and civ partners. Their article specifically said that reworking their methodology with linked couples would be better though. 
 * Looking at **Larsen et al \(Army wives\)** **\(N=18\)** they did a qual study using IPA. This could be a good approach to emulate but they only looked at one memver of the dyad \(civ partner\). 
 * Mixed Methods Idea \(pp. 66 of RNB\): do qual interviews about coping strats, protective factors utilzied during post-deployment and use quant marital sat survey. Look for rlx between protective facrtors, coping, and marital sat.
 
@@ -31,7 +31,7 @@ A question that remains unanswered is how does the process of reintegration mirr
 **Possible Questions**
 
 * How long have you been in a relationship together?
-* How long have you been married?
+* Are you married? If so, for how long?
 * Branch of Service
 * SM: Years in service
 * age, gender, rank
@@ -39,13 +39,32 @@ A question that remains unanswered is how does the process of reintegration mirr
 * SM: How many times have you deployed during your career?
 * SM: Did you experience any combat during deployment?
 * Do you have children? 
+
+Pulling from Larsen et al these questions are broken up into three domains: individual level processes, family beliefs/practices, and sociocultrual processes
+
+**Individual Level**
+
+* What were your main sources of support during the post-deployment phase?
+* Were there any patterns in the coming home process that you noticed across your multiple deployments?
+* Were there any stressors that were salient for you and your partner when you \(they\) came home from deployment i.e. finances, chores, sexual frustration, loneliness etc.
 * What has been the hardest part of your re-adjusting to life at home after your most recent deployment?
 * What was the best part of your re-adjusting to life at home after your most recent deploymennt?
-* Were there any specific skills that you tried to use to ease the transition from deployment to post-deployment?
-* Did you receive any formal training \(such as STRONG BONDS\) on how to work through post-deployment difficulties?
+  * ALT to 2 above: what have been the most salient experiences of your being back at home after deployment?
+* How did you \(and your family if civ\) prepare for life after deployment?
+
+**Family Beliefs/Practices**
+
+* Did your family receive any formal training \(such as STRONG BONDS\) on how to work through post-deployment difficulties
+* What do you feel you've learned about your relationship as a result of your latest deployment?
+* How does deployment and the military fit into your family?
+* what was communication like for you and your partner when they got back from deployment?
+
+**Sociocultural Processes**
+
+* did social support from friends or family play a role in the coming home process?
 * What were your main sources of support during the post-deployment phase?
-* Were there any patterns you noticed across the times you came back from a deployment? 
-  * Did they get easier or harder each time?
+* Were there any patterns you noticed across the times you\(your partner\) came back from a deployment? 
+  * Did the coming home process change over the years?
 * What do you feel you've learned about your relationship as a result of your latest deployment?
 
 
