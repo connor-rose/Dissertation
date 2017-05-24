@@ -16,8 +16,10 @@ snow ball sampling of active duty and veteran couples. Must have one deployment?
 * National Guard contacts of Alexa Landsman
 * local community event
 
+### Social Location and Researcher Bias
+As the researcher conducting the participant interviews and performing the coding of transcripts, it is important to be aware of where I am approaching the research from as well as making the reader aware of possible biases I may have. I have taken steps to become aware of and minimize the influence that my biases may have on the research however, it is impossible to completely sever oneself from their biases. At the time of data collection and interpretation the primary student researcher had joined the Air Force and upon completion of their doctorate degree will be working as a clinical psychologist in an active duty capacity. The possibility for bias to enter the data collection is at the point of data encoding. Given my affiliation with the Air Force it is possible to want to over-analyze or otherwise focus too closely on the positive aspects that result from a military life. Their is currently minimal research on the positive aspects of being a member of the military community which is why this paper chooses to focus, in part, on those positive factors. 
+  
 ### Operational Definitions
-
 It is important to establish what we define as a family. The literature varies on what is considered a family. For the purposes of this study a family will be broadly defined as a composition of two or more persons who are brought together over time by mutual consent who, together, assume responsibilities for familial functions \(Benzies and Mychasiuk, 2009; Vanier Institute of the Family 2004\). For the purposes of our study a couple must be cohabitating but not necessarily married.
 
 When determining the appropriate period of time to consider "post-deployment" I refer to the Yellow Ribbon Reintegration Program, which describes post-deployment is the first 180 days after the service member returns to their home station.
