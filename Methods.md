@@ -58,4 +58,4 @@ Pulling from Larsen et al these questions are broken up into three domains: indi
   - Did the coming home process change over the multiple deployments?
 * What do you feel you've learned about your relationship as a result of your latest deployment?
 ### Analysis
-*get help from seawell on that one*
+*Ding article and my paper from class*
