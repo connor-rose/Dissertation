@@ -1,4 +1,5 @@
-# Methods 26 MAY 2017
+# Methods 01 JUN 2017
+**write those section in the future tense and use words like “approximately” “expected” and the like to indicate that these aspects of research are currently unknown.**
 * I could do the **Marek and D'aniello** article (**SM N=380) (Civ= 295) **method which is collect data from non-linked service mems and civ partners. Their article specifically said that reworking their methodology with linked couples would be better though. 
 * Looking at **Larsen et al (Army wives)** **(N=18)** they did a qual study using IPA. This could be a good approach to emulate but they only looked at one memver of the dyad (civ partner). 
 * Mixed Methods Idea (pp. 66 of RNB): do qual interviews about coping strats, protective factors utilzied during post-deployment and use quant marital sat survey. Look for rlx between protective facrtors, coping, and marital sat
@@ -58,4 +59,4 @@ Pulling from Larsen et al these questions are broken up into three domains: indi
   - Did the coming home process change over the multiple deployments?
 * What do you feel you've learned about your relationship as a result of your latest deployment?
 ### Analysis
-*Ding article and my paper from class*
+*get help from seawell on that one*
