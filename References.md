@@ -20,3 +20,5 @@ Melvin, K. C., Gross, D., Hayat, M. J., Jennings, B. M., Campbell, J. C. (2012).
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
 
 Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
+
+Watkins, K., Lee, J. E. C., & Zamorski, M. A. (2017). Moderating effect of marital status on the association between combat exposure and post-deployment mental health in Canadian military personnel. *Military Psychology, 29,* 3, 177-188. doi: 10.1037/mil0000153
