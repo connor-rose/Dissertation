@@ -24,6 +24,8 @@ Marek, L. I. & D'Aniello, C. (2014). Reintegration stress and family mental heal
 Melvin, K. C., Gross, D., Hayat, M. J., Jennings, B. M., Campbell, J. C. (2012). Couple functioning and post-traumatic stress symptoms in US Army couples: The role of resilience. *Research in Nursing & Health, 35*, 164-177. doi:10.1002/nur.21459
 Military OneSource (2015). 2015 Demographics: Profile of the military community. Retrieved from [http://download.militaryonesource.mil/12038/MOS/Reports/2015-Demographics-Report.pdf][4]
 
+Newby, J. H., McCarroll, J. E., Ursano, R. J., Fan, Z., Shigemura, J., & Tucker-Harris, Y. (2005). Positive and negative consequences of a military deployment. *Military Medicine, 170,* 10, 815-819.
+
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
 Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
 Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
