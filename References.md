@@ -28,6 +28,9 @@ Newby, J. H., McCarroll, J. E., Ursano, R. J., Fan, Z., Shigemura, J., & Tucker-
 
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
 Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
+
+Sayers, S. L. (2011). Family reintegration difficulties and couples therapy for military veterans and their spouses. *Cognitive and Behavioral Practice, 18,* 1, 108-119. doi:10.1016/j.cbpra.2010.03.002
+
 Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
 
 Watkins, K., Lee, J. E. C., & Zamorski, M. A. (2017). Moderating effect of marital status on the association between combat exposure and post-deployment mental health in Canadian military personnel. *Military Psychology, 29,* 3, 177-188. doi: 10.1037/mil0000153
