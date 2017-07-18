@@ -19,38 +19,3 @@ The survey will be run on a private Qualtrics survey account accessible only by 
 After that participants will be debriefed, offered resources for military couples support services and/or reintegration services and thanked for their participation and service. This survey is an anonymous survey unless participants agree to a skype interview and provide contact information in which case the survey information will become confidential. Contact information will be removed from survey data and stored separately thus only accessible by the primary researcher. This contact information will be stored in a encrypted Box online storage account. After data collection the survey responses will be coded and analyzed by myself and a research assistant who is a graduate student from Pacific University. 
 ### Data Analysis
 After survey completion, responses will be collected and preserved verbatim for analysis. According to IPA theory, the process of analyzing qualitative responses is to begin at the detailed idiographic level and focus on one case at a time before moving to a more broad level generalization of concepts between transcripts (Smith, 2015). Re-reading is imperative in becoming familiar with the text. This is why the researcher will read through the survey responses of one participant several times to get an overall feel for them. Consecutive pass through helps make sense of the text and aid in gaining additional insight into its meaning. This will be done for all responses before any coding occurs. After that, the researcher will return to the individual survey responses to begin coding. Statements pertaining to the lived experience of being a military couple will be focused on and coded for their meaning. These codes should be directly related to the meaning of the text it is meant to represent. While still focusing on one survey response, these codes are to be clustered by similarity and given a theme. This theme is more abstract than codes but should still connect back to the primary source material. As themes are identified they too will be clustered together to identify which themes are primary themes and which are subthemes. During this phase it is important to refer back to the source material often to ensure commonality of themes is supported by the text. This process is repeated for each survey response. As you progress across surveys, the researcher is looking for themes that emerge among multiple survey responses. These common themes are the results of the qualitative investigation.`check proposal slides for better wording`
-### Survey Questions `make Appendix A / separate sheet in ulysses`
-**Guiding Question**: what is the lived experience of the military couple navigating the homecoming process in post-deployment life?
-**Demographic Questions**
-* Are you a service member in the United States Armed Forces or a partner of a service member? (check box response)
-* How long have you and your partner been in a romantic relationship together?
-* Are you married? If so, for how long?
-* Branch of Service or service member branch of service
-* Years in service (of partner)
-* age, gender, rank (of partner)
-* Date range of most recent deployment
-* How many times have you (or your partner) been deployed during your (their) career?
-* Did you (or your partner) experience any combat during the most recent deployment?
-* Do you have children? 
-*Research Questions* `pull Q from proposal handout for most up to date`
-- 1a) what strengths did you bring to the re-integration process 
-- 1b) What strengths did your partner bring to the re-integration process
-- 2a) What family beliefs and/or practices were important in the re-integration process for you
-- 2b) What family beliefs and/or practices were important in the re-integration process for your partner
-- 3a) What kind of, if any, social support was relevant for you during re-integration 
-- 3b) What kind of, if any, social support was relevant for your partner during re-integration?
-*Services for End of Survey*
-**Military One Source**
-- [tel:800-342-9647][1] 
-- militaryonesource.mil
-**Defense Center of Excellence**
-- [tel:866-966-1020][2] 
-- [http://www.dcoe.mil][3]
- **Real Warriors**
--  [http://www.realwarriors.net/family][4]
-Militaryfamily.org/info-resources/
-
-[1]:	tel:800-342-9647
-[2]:	tel:866-966-1020
-[3]:	http://www.dcoe.mil
-[4]:	http://www.realwarriors.net/family
