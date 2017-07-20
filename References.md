@@ -22,15 +22,19 @@ Larsen, J. L., Clauss-Ehlers, C. S., & Cosden, M. A. (2015). An exploration of A
 Marek, L. I. & D'Aniello, C. (2014). Reintegration stress and family mental health: Implications for therapists working with reintegrating military families. *Contemporary Family Therapy, 36,* 443-451. doi:10.1007/s10591-014-9316-4
 
 Melvin, K. C., Gross, D., Hayat, M. J., Jennings, B. M., Campbell, J. C. (2012). Couple functioning and post-traumatic stress symptoms in US Army couples: The role of resilience. *Research in Nursing & Health, 35*, 164-177. doi:10.1002/nur.21459
+
 Military OneSource (2015). 2015 Demographics: Profile of the military community. Retrieved from [http://download.militaryonesource.mil/12038/MOS/Reports/2015-Demographics-Report.pdf][4]
 
 Newby, J. H., McCarroll, J. E., Ursano, R. J., Fan, Z., Shigemura, J., & Tucker-Harris, Y. (2005). Positive and negative consequences of a military deployment. *Military Medicine, 170,* 10, 815-819.
 
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
+
 Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
 
 Sayers, S. L. (2011). Family reintegration difficulties and couples therapy for military veterans and their spouses. *Cognitive and Behavioral Practice, 18,* 1, 108-119. doi:10.1016/j.cbpra.2010.03.002
+
 Tufford, L., & Newman, P. (2012). Bracketing in qualitative research. *Qualitative Social Work, 11,* 1, 80-96.
+
 Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
 
 Watkins, K., Lee, J. E. C., & Zamorski, M. A. (2017). Moderating effect of marital status on the association between combat exposure and post-deployment mental health in Canadian military personnel. *Military Psychology, 29,* 3, 177-188. doi: 10.1037/mil0000153
