@@ -1,4 +1,4 @@
-# Literature Review 20 JUL 2017
+# Literature Review 20 JUL 2017 - edit Mac
 `cross ref with printed version to ensure you're using most up to date version;remember copy paste mistake`
 `bonanno is in the ref list, actually cite it somewhere`
 `dont forget about revised lit review paragraph in Ulysses iCloud Docs`
