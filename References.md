@@ -11,11 +11,11 @@ Bonanno, G. A. (2004) Loss, trauma, and human resilience: Have we underestimated
 
 Bowling, U. B. & Sherman, M. D. (2008). Welcoming them home: Supporting service members and their families in navigating the tasks of reintegration. *Professional Psychology: Research and Practice, 39*(4), 451-458. doi: 10.1037/0735-7028.39.4.451
 
-DMDC. (2016) DoD Personnel, Workforce Reports & Publications. Retrieved from https://www.dmdc.osd.mil/appj/dwp/dwp\_reports.jsp
+DMDC. (2016). DoD Personnel, Workforce Reports & Publications. Retrieved from https://www.dmdc.osd.mil/appj/dwp/dwp\_reports.jsp
 
 Jacelon, C. S. (1997). The trait and process of resilience. *Journal of Advanced Nursing, 25*, 123-129. 
 
-Joint Services Program (n.d) Understanding the phases of deployment. Retrieved from [https://www.jointservicessupport.org/YRRP/DeploymentCycle.aspx][2]
+Joint Services Program (n.d.) Understanding the phases of deployment. Retrieved from [https://www.jointservicessupport.org/YRRP/DeploymentCycle.aspx][2]
 
 Larsen, J. L., Clauss-Ehlers, C. S., & Cosden, M. A. (2015). An exploration of Army wives' responses to spousal deployment:  Stressors and protective factors. *Couple and Family Psychology: Research and Practice, 4*(4), 212-228. doi:[http://dx.doi.org/10.1037/cfp0000049][3]
 
