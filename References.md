@@ -1,13 +1,13 @@
 # References
 Allen, E. S., Rhoades, G. K., Stanley, S. M, & Markman, H. J. (2011). On the home front: Stress for recently deployed Army couples. *Family Process, 50* (2), 235-247.  
 
-Adler, A. B., Bartone, P. T., & Britt, T. W. (2001) Deriving benefits from stressful events: The role of engagement in meaningful work and hardiness. *Journal of Occupational Health Psychology, 6*(1), 53-63. doi:10.1037//1076-8998.6.1.53
+Adler, A. B., Bartone, P. T., & Britt, T. W. (2001). Deriving benefits from stressful events: The role of engagement in meaningful work and hardiness. *Journal of Occupational Health Psychology, 6*(1), 53-63. doi:10.1037//1076-8998.6.1.53
 
 American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders: DSM-5. Washington, D.C: American Psychiatric Association.
 
 Benzies, K. & Mychasiuk, R. (2009). Fostering family resiliency: A review of the key protective factors. *Child and Family Social Work, 14*, 103-114.[doi:10.1111/j.1365-2206.2008.00586.x][1]
 
-Bonanno, G. A. (2004) Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 8*(1), 101-113. doi:10.1037/0003-066X.59.1.2
+Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 8*(1), 101-113. doi:10.1037/0003-066X.59.1.2
 
 Bowling, U. B. & Sherman, M. D. (2008). Welcoming them home: Supporting service members and their families in navigating the tasks of reintegration. *Professional Psychology: Research and Practice, 39*(4), 451-458. doi: 10.1037/0735-7028.39.4.451
 
