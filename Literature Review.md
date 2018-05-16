@@ -1,7 +1,6 @@
 An Exploration of the Coming Home Process for Military Couples
 # Literature Review 11 SEP 2017
-`cross ref with printed version to ensure you're using most up to date version;remember copy paste mistake`  
-`bonanno is in the ref list, actually cite it somewhere`  
+`cross ref with printed version to ensure you're using most up to date version;remember copy paste mistake bonanno is in the ref list, actually cite it somewhere` 
 `dont forget about revised lit review paragraph in Ulysses iCloud Docs`  
 In order to try and understand our military service members we must first understand who they are. 
 There are currently 1.3 million citizens serving the active duty component of the United States military and of those active duty personnel, over half are married (Military One Source, 2015; DMDC, 2016). This number does not include service members who are co-habitating so the overall number of partnered service members is likely to be even higher. That figure of 1.3 million active duty service members may sound large but it is only 0.4% of the U.S. population. The reality is that the operational stressors and responsibilities of our military are being shouldered by a small number of citizens and this reality can lead to service members feeling isolated from citizens who did not serve and may not understand. These numbers underscore the importance of understanding how military couples not only survive but thrive within the rigors of military life. 
