@@ -1,7 +1,0 @@
-# IRB Files
-## Email List serv
-My name is Connor Rose and I am a third year doctoral student in clinical psychology at Pacific University School of Graduate Psychology and a student member of Division 19. I am looking for participants for an online survey in an attempt to understand the lived experience of military couples who are attempting to reintegrate into civilian life after a deployment. Current studies have mixed results as to whether or not a military deployment has a negative impact on couples satisfaction and stability. Current research does suggest that there is potential for deployment to increase couple’s resilience however these studies have been limited by sample characteristics and size. I am looking for participants who are willing to complete an online survey and who are a A) partnered service member of any military branch who has been deployed in the past two years; or B) partner of a service member who has been deployed in the past two years; and C) the participant has been cohabitating with their partner at the time of post-deployment. All participants must be at least 18 years old and have internet access to complete an online survey. Please see attached (Recruitment Flyer) for more information.
-
-If you have any questions, please contact the following individuals with any concerns: Researcher; Connor Rose, connor.rose@pacificu.edu; Dissertation Chair: Dr. Asani Seawell, seawella@pacificu.edu
-Thank you,
-Connor Rose, M.A.
