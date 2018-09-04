@@ -17,6 +17,8 @@ Caska, C. M. & Renshaw, K. D. (2011). Perceived burden in spouses of National Gu
 
 DMDC. (2016). DoD Personnel, Workforce Reports & Publications. Retrieved from https://www.dmdc.osd.mil/appj/dwp/dwp\_reports.jsp
 
+De Burgh, H. T., White, C. J., Fear, N. T., & Iversen, A. C. (2011). The impact of deployment to Iraq or Afghanistan on partners and wives of military personnel. *International Review of Psychiatry, 23*, 192-200. doi: 10.3109/09540261.2011.560144
+
 Hosek, J., Kavanagh, J., & Miller, L. (2006). How deployments affect service members. *Rand Corporation*
 
 Jaber, A. J., Willerton, E., Clymer, S. R., Macdermid, S. M., & Weiss, H. M. (2008). Ambiguous absense, ambiguous presence: A qualitative study of military reserve families in wartime. *Journal of Family Psychology,22*(2), 222-230. doi: 10.1037/0893-3200.22.2.222
@@ -24,6 +26,8 @@ Jaber, A. J., Willerton, E., Clymer, S. R., Macdermid, S. M., & Weiss, H. M. (20
 Jacelon, C. S. (1997). The trait and process of resilience. *Journal of Advanced Nursing, 25*, 123-129. 
 
 Joint Services Program (n.d.) Understanding the phases of deployment. Retrieved from [https://www.jointservicessupport.org/YRRP/DeploymentCycle.aspx][2]
+
+Knobloch, L. K. & Theiss, J. A. (2012). Experiences of U.S. military couples during the post-deployment transition: Applying the relational turbulence model. *Journal of Social and Personal Relationships, 29*(4), 423-450. http://dx.doi.org/10.1177/0265407511431186
 
 Larsen, J. L., Clauss-Ehlers, C. S., & Cosden, M. A. (2015). An exploration of Army wives' responses to spousal deployment:  Stressors and protective factors. *Couple and Family Psychology: Research and Practice, 4*(4), 212-228. doi:[http://dx.doi.org/10.1037/cfp0000049][3]
 
@@ -40,6 +44,8 @@ Palmer, C. (2008). A theory of risk and resilience factors in military families.
 SteelFisher, G. K., Zaslavsky, A. M., & Blendon, R. J. (2008). Health-related impact of deployment extensions on spouses of active duty Army personnel. *Military Medicine, 173*(3), 221-229.
 
 Sayers, S. L. (2011). Family reintegration difficulties and couples therapy for military veterans and their spouses. *Cognitive and Behavioral Practice, 18,* 1, 108-119. doi:10.1016/j.cbpra.2010.03.002
+
+Sheppard, S. C., Malatras, J. W., & Israel, A. C. (2010). *American Psychologist, 65*(6), 599-609. doi: 10.1037/a0020332
 
 Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
 
