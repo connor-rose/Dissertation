@@ -5,13 +5,21 @@ Adler, A. B., Bartone, P. T., & Britt, T. W. (2001). Deriving benefits from stre
 
 American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders: DSM-5. Washington, D.C: American Psychiatric Association.
 
-Benzies, K. & Mychasiuk, R. (2009). Fostering family resiliency: A review of the key protective factors. *Child and Family Social Work, 14*, 103-114.[doi:10.1111/j.1365-2206.2008.00586.x][1]
+Benzies, K. & Mychasiuk, R. (2009). Fostering family resiliency: A review of the key protective factors. *Child and Family Social Work, 14*, 103-114.[doi: 10.1111/j.1365-2206.2008.00586.x][1]
 
-Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 8*(1), 101-113. doi:10.1037/0003-066X.59.1.2
+Bonanno, G. A. (2004). Loss, trauma, and human resilience: Have we underestimated the human capacity to thrive after extremely aversive events? *American Psychologist, 8*(1), 101-113. doi: 10.1037/0003-066X.59.1.2
 
 Bowling, U. B. & Sherman, M. D. (2008). Welcoming them home: Supporting service members and their families in navigating the tasks of reintegration. *Professional Psychology: Research and Practice, 39*(4), 451-458. doi: 10.1037/0735-7028.39.4.451
 
+Burrell, L. M., Durand, D. B., & Castro, C. A. (2006). The impact of military lifestyle demands on well-being, Army, and family outcomes. *Armed Forces & Society, 33*(1), 43-58. doi: 10.1177/0002764206288804
+
+Caska, C. M. & Renshaw, K. D. (2011). Perceived burden in spouses of National Guard/Reserve service members deployed during Operations Enduring and Iraqi Freedom. *Journal of Anxiety Disorders, 25*, 346-351. doi: 10.1016/j.janxdis.2010.10.008
+
 DMDC. (2016). DoD Personnel, Workforce Reports & Publications. Retrieved from https://www.dmdc.osd.mil/appj/dwp/dwp\_reports.jsp
+
+Hosek, J., Kavanagh, J., & Miller, L. (2006). How deployments affect service members. *Rand Corporation*
+
+Jaber, A. J., Willerton, E., Clymer, S. R., Macdermid, S. M., & Weiss, H. M. (2008). Ambiguous absense, ambiguous presence: A qualitative study of military reserve families in wartime. *Journal of Family Psychology,22*(2), 222-230. doi: 10.1037/0893-3200.22.2.222
 
 Jacelon, C. S. (1997). The trait and process of resilience. *Journal of Advanced Nursing, 25*, 123-129. 
 
@@ -29,15 +37,19 @@ Newby, J. H., McCarroll, J. E., Ursano, R. J., Fan, Z., Shigemura, J., & Tucker-
 
 Palmer, C. (2008). A theory of risk and resilience factors in military families. *Military Psychology, 20,* 205-217. doi:10.1080/08995600802118858
 
-Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
+SteelFisher, G. K., Zaslavsky, A. M., & Blendon, R. J. (2008). Health-related impact of deployment extensions on spouses of active duty Army personnel. *Military Medicine, 173*(3), 221-229.
 
 Sayers, S. L. (2011). Family reintegration difficulties and couples therapy for military veterans and their spouses. *Cognitive and Behavioral Practice, 18,* 1, 108-119. doi:10.1016/j.cbpra.2010.03.002
+
+Smith, J. A. (Ed.). (2015). Qualitative psychology: A practical guide to research methods (3rd edition). Los Angeles, CA. SAGE. (ISBN #: 978-1446298466)
 
 Tufford, L., & Newman, P. (2012). Bracketing in qualitative research. *Qualitative Social Work, 11,* 1, 80-96.
 
 Vanier Institute of the Family (2004). Profiling Canada’s Families III. Library and Archives Canada Cataloguing in Publication, Ottawa, Ontario.
 
 Watkins, K., Lee, J. E. C., & Zamorski, M. A. (2017). Moderating effect of marital status on the association between combat exposure and post-deployment mental health in Canadian military personnel. *Military Psychology, 29,* 3, 177-188. doi: 10.1037/mil0000153
+
+Wood, S., Scarville, J., & Gravino, K. S. (1995). Waiting wives: Separation and reunion among Army wives. *Armed Forces and Society, 21*(2), 217-236.
 
 [1]:	doi:10.1111/j.1365-2206.2008.00586.x
 [2]:	https://www.jointservicessupport.org/YRRP/DeploymentCycle.aspx
